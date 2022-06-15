@@ -10,8 +10,8 @@ github.com/gorilla/mux v1.3.1-0.20170228224354-599cba5e7b61 h1:fgQcA2gW8X1dLTYea
 github.com/gorilla/mux v1.3.1-0.20170228224354-599cba5e7b61/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
 github.com/gorilla/pat v0.0.0-20160413041632-cf955c3d1f2c h1:/dq3+XpxRH+cjiua5GyJKE80RXZfZbmT8ejIcNsb93Q=
 github.com/gorilla/pat v0.0.0-20160413041632-cf955c3d1f2c/go.mod h1:YeAe0gNeiNT5hoiZRI4yiOky6jVdNvfO2N6Kav/HmxY=
-github.com/gorilla/websocket v1.1.1-0.20170319172727-a91eba7f9777 h1:2Wp9JIvcGxCnl0ju03V2uMMLBwP/NXsgc/U8qwb/rp8=
-github.com/gorilla/websocket v1.1.1-0.20170319172727-a91eba7f9777/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
+github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/ian-kent/envconf v0.0.0-20141026121121-c19809918c02 h1:dU8zq210pt1b71X8xh9GOxC7uBHNtQ9BYC+Lb6SA/mA=
 github.com/ian-kent/envconf v0.0.0-20141026121121-c19809918c02/go.mod h1:1m5fo3aKG2moYtGHC4I2nFkXmG97+vCeaEIWC+mXTSI=
 github.com/ian-kent/go-log v0.0.0-20160113211217-5731446c36ab h1:OgrFrYWlVzY7Tc8rq7Y4ErlKo28igc70gbfJGTVWTJk=

@@ -18,7 +18,7 @@ require (
 	github.com/gopherjs/gopherjs v0.0.0-20220221023154-0b2280d3ff96 // indirect
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.3.1-0.20170228224354-599cba5e7b61 // indirect
-	github.com/gorilla/websocket v1.1.1-0.20170319172727-a91eba7f9777 // indirect
+	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/ian-kent/goose v0.0.0-20141221090059-c3541ea826ad // indirect
 	github.com/ian-kent/linkio v0.0.0-20141229112453-77fb4b01842c // indirect
 	github.com/jtolds/gls v4.2.1-0.20161228004933-bb0351aa7eb6+incompatible // indirect
