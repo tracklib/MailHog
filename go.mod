@@ -10,7 +10,7 @@ require (
 	github.com/mailhog/MailHog-UI v1.0.1
 	github.com/mailhog/http v1.0.2-rc1
 	github.com/mailhog/mhsendmail v0.2.1-0.20160920204233-c097b3bc3fe7
-	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
+	golang.org/x/crypto v0.1.0
 )
 
 require (

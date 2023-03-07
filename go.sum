@@ -58,8 +58,8 @@ github.com/t-k/fluent-logger-golang v1.0.0 h1:4IQzY+/l66Zkkhk9eB3LwF9vPkgKHJ1rpY
 github.com/t-k/fluent-logger-golang v1.0.0/go.mod h1:6vC3Vzp9Kva0l5J9+YDY5/ROePwkAqwLK+KneCjSm4w=
 github.com/tinylib/msgp v0.0.0-20160524150606-05e600edf28f h1:ljxlo6Yx58Gd6G3d3oZRc+daCnz5t7BuFMhUW1Sekec=
 github.com/tinylib/msgp v0.0.0-20160524150606-05e600edf28f/go.mod h1:+d+yLhGm8mzTaHzB+wgMYrodPfmZrzkirds8fDWklFE=
-golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 h1:/UOmuWzQfxxo9UtlXMwuQU8CMgg1eZXqTRwkSQJWKOI=
-golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
+golang.org/x/crypto v0.1.0 h1:MDRAIl0xIo9Io2xV565hzXHw3zVseKrJKodhohM5CjU=
+golang.org/x/crypto v0.1.0/go.mod h1:RecgLatLF4+eUMCP1PoPZQb+cVrJcOPbHkTkbkB9sbw=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c h1:Hei/4ADfdWqJk1ZMxUNpqntNwaWcugrBjAiHlqqRiVk=
 gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c/go.mod h1:JHkPIbrfpd72SG/EVd6muEfDQjcINNoR0C8j2r3qZ4Q=
